@@ -1,0 +1,13 @@
+[user]
+	name = Frida Casas
+	email = fridakahsas@yahoo.com
+[github]
+	user = frida0f0
+[push]
+	default = simple
+[credential]
+	helper = osxkeychain
+
+
+#brew bundle --global to install new brews
+#script/setup to update

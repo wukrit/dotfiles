@@ -1,3 +1,25 @@
-# Here ya go!
-#
-# brew 'zsh'
+tap 'caskroom/cask'
+tap 'github/bootstrap'
+tap 'homebrew/bundle'
+tap 'homebrew/core'
+tap 'homebrew/services'
+
+brew 'git'
+brew 'mas'
+brew 'node'
+brew 'nodenv'
+brew 'postgresql'
+brew 'rbenv'
+brew 'rbenv-default-gems'
+brew 'ruby-build'
+brew 'sqlite'
+brew 'tree'
+brew 'zsh'
+
+cask 'atom'
+cask 'google-chrome'
+cask 'slack'
+cask 'sonic-pi'
+cask 'spotify'
+cask 'webtorrent'
+cask 'zoomus'

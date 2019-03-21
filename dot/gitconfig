@@ -7,7 +7,3 @@
 	default = simple
 [credential]
 	helper = osxkeychain
-
-
-#brew bundle --global to install new brews
-#script/setup to update

@@ -1,5 +1,3 @@
-#!/bin/bash
-set -e
-
+#!/bin/zsh
 # After brew installed goes here!
 sudo dscl . -create /Users/$USER UserShell $(brew --prefix)/bin/zsh

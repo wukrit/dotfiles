@@ -1,5 +1,0 @@
-# Enable rbenv
-eval "$(rbenv init -)"
-
-# Enable nodenv
-eval "$(nodenv init -)"

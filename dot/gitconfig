@@ -11,3 +11,5 @@
 	co = checkout
 	gp = git push
 	gc = git clone
+[core]
+	editor = "atom -w"

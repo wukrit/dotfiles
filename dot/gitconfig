@@ -1,8 +1,8 @@
 [user]
-	name = Frida Casas
-	email = fridacasas.fc@gmail.com
+	name = <name>
+	email = <gh_email>
 [github]
-	user = fridaland
+	user = <gh_user>
 [push]
 	default = simple
 [credential]
@@ -15,6 +15,11 @@
 	gs = git status
 
 [core]
-	editor = "atom -w"
+	editor = "code -w"
 [rerere]
-	enabled = true
+	enabled = false
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true

@@ -22,4 +22,4 @@ done
 #shell expansion "~" can't be in quotes, we use "" for security
 
 for f in $(ls -d ~/.dotfiles/dot/*); do ln -sfn $f ~/.$(basename $f); done
-echo "such successfulness"
+echo "success"

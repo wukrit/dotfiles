@@ -1,8 +1,8 @@
 [user]
-	name = <name>
-	email = <gh_email>
+	name = Sukrit Walia
+	email = sukritwalia@gmail.com
 [github]
-	user = <gh_user>
+	user = wukrit
 [push]
 	default = simple
 [credential]

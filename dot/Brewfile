@@ -1,5 +1,5 @@
-tap 'caskroom/cask'
 tap 'github/bootstrap'
+tap 'homebrew/cask'
 tap 'homebrew/bundle'
 tap 'homebrew/core'
 tap 'homebrew/services'

@@ -17,6 +17,8 @@ brew 'sqlite'
 brew 'svn'
 brew 'tree'
 brew 'zsh'
+brew 'docker'
+brew 'docker-compose'
 
 cask 'google-chrome'
 cask 'spotify'
